@@ -1,0 +1,102 @@
+[  1%] Built target generate_px4_header
+[  4%] Built target gtest_main
+[  7%] Built target gtest
+[  9%] Built target integration_utils
+[ 12%] Built target unit_utils
+[ 69%] Built target px4_ros2_cpp
+[ 81%] Built target integration_tests
+[100%] Built target px4_ros2_cpp_unit_tests
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/share/px4_ros2_cpp/environment/library_path.sh
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/share/px4_ros2_cpp/environment/library_path.dsv
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/common/context.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/common/exception.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/common/frame.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/common/requirement_flags.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/common/setpoint_base.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/components/events.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/components/groups.dox
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/components/health_and_arming_checks.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/components/manual_control_input.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/components/message_compatibility_check.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/components/mode.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/components/mode_executor.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/components/node_with_mode.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/components/overrides.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/components/shared_subscription.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/components/wait_for_fmu.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/control/groups.dox
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/control/peripheral_actuators.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/control/setpoint_types/direct_actuators.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/control/setpoint_types/experimental/attitude.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/control/setpoint_types/experimental/rates.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/control/setpoint_types/experimental/rover/position.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/control/setpoint_types/experimental/rover/speed_attitude.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/control/setpoint_types/experimental/rover/speed_rate.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/control/setpoint_types/experimental/rover/speed_steering.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/control/setpoint_types/experimental/rover/throttle_attitude.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/control/setpoint_types/experimental/rover/throttle_rate.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/control/setpoint_types/experimental/rover/throttle_steering.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/control/setpoint_types/experimental/trajectory.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/control/setpoint_types/fixedwing/lateral_longitudinal.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/control/setpoint_types/groups.dox
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/control/setpoint_types/multicopter/goto.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/control/vtol.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/mission/actions/action.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/mission/actions/default_actions.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/mission/actions/groups.dox
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/mission/groups.dox
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/mission/mission.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/mission/mission_executor.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/mission/trajectory/multicopter/groups.dox
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/mission/trajectory/multicopter/waypoint_trajectory_executor.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/mission/trajectory/trajectory_executor.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/navigation/experimental/global_position_measurement_interface.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/navigation/experimental/local_position_measurement_interface.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/navigation/experimental/navigation_interface_base.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/navigation/groups.dox
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/odometry/airspeed.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/odometry/angular_velocity.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/odometry/attitude.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/odometry/global_position.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/odometry/groups.dox
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/odometry/local_position.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/odometry/odometry.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/third_party/nlohmann/json.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/third_party/nlohmann/json_fwd.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/utils/frame_conversion.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/utils/geodesic.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/utils/geometry.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/utils/groups.dox
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/utils/message_version.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/utils/subscription.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/utils/vehicle_command_sender.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/utils/visit.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/vehicle_state/battery.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/vehicle_state/groups.dox
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/vehicle_state/home_position.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/vehicle_state/home_position_setter.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/vehicle_state/land_detected.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/vehicle_state/vehicle_status.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/include/px4_ros2/vehicle_state/vtol_status.hpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/share/ament_index/resource_index/package_run_dependencies/px4_ros2_cpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/share/ament_index/resource_index/parent_prefix_path/px4_ros2_cpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/share/px4_ros2_cpp/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/share/px4_ros2_cpp/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/share/px4_ros2_cpp/environment/path.sh
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/share/px4_ros2_cpp/environment/path.dsv
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/share/px4_ros2_cpp/local_setup.bash
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/share/px4_ros2_cpp/local_setup.sh
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/share/px4_ros2_cpp/local_setup.zsh
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/share/px4_ros2_cpp/local_setup.dsv
+-- Symlinking: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/share/px4_ros2_cpp/package.dsv
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/share/ament_index/resource_index/packages/px4_ros2_cpp
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/share/px4_ros2_cpp/cmake/ament_cmake_export_targets-extras.cmake
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/share/px4_ros2_cpp/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/share/px4_ros2_cpp/cmake/px4_ros2_cppConfig.cmake
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/share/px4_ros2_cpp/cmake/px4_ros2_cppConfig-version.cmake
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/share/px4_ros2_cpp/package.xml
+-- Up-to-date: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/lib/libpx4_ros2_cpp.so
+-- Up-to-date: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/share/px4_ros2_cpp/cmake/px4_ros2_cppExport.cmake
+-- Up-to-date: /home/mikks/ros2_px4_ws/install/px4_ros2_cpp/share/px4_ros2_cpp/cmake/px4_ros2_cppExport-noconfig.cmake

@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/mikks/ros2_px4_ws/build/px4_ros2_py/px4_ros2_py.cpython-312-x86_64-linux-gnu.so" "TARGETS" "px4_ros2_py" "DESTINATION" "lib/python3.12/site-packages/px4_ros2")

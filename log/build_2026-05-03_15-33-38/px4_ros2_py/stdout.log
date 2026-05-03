@@ -1,0 +1,80 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found rclcpp: 28.1.10 (/opt/ros/jazzy/share/rclcpp/cmake)
+-- Found rosidl_generator_c: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+-- Found rosidl_generator_cpp: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 8.4.2 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+-- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found rclpy: 7.1.4 (/opt/ros/jazzy/share/rclpy/cmake)
+-- Found px4_ros2_cpp: 0.0.1 (/home/mikks/ros2_px4_ws/install/px4_ros2_cpp/share/px4_ros2_cpp/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter Development Development.Module Development.Embed 
+-- Performing Test HAS_FLTO
+-- Performing Test HAS_FLTO - Success
+-- Found pybind11: /usr/include (found version "2.11.1")
+-- Configuring done (4.7s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/mikks/ros2_px4_ws/build/px4_ros2_py
+[ 25%] [32mBuilding CXX object CMakeFiles/px4_ros2_py.dir/src/px4_ros2/bind_main.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/px4_ros2_py.dir/src/px4_ros2/components/mode.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/px4_ros2_py.dir/src/px4_ros2/components/mode_executor.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/px4_ros2_py.dir/src/px4_ros2/components/node_wrapper.cpp.o[0m
+[ 62%] [32mBuilding CXX object CMakeFiles/px4_ros2_py.dir/src/px4_ros2/control/setpoint_types/multicopter/goto.cpp.o[0m
+[ 62%] Built target ament_cmake_python_symlink_px4_ros2
+[ 75%] [32mBuilding CXX object CMakeFiles/px4_ros2_py.dir/src/px4_ros2/odometry/local_position.cpp.o[0m
+running egg_info
+creating px4_ros2.egg-info
+writing px4_ros2.egg-info/PKG-INFO
+writing dependency_links to px4_ros2.egg-info/dependency_links.txt
+writing top-level names to px4_ros2.egg-info/top_level.txt
+writing manifest file 'px4_ros2.egg-info/SOURCES.txt'
+reading manifest file 'px4_ros2.egg-info/SOURCES.txt'
+writing manifest file 'px4_ros2.egg-info/SOURCES.txt'
+[ 75%] Built target ament_cmake_python_build_px4_ros2_egg
+[ 87%] [32mBuilding CXX object CMakeFiles/px4_ros2_py.dir/src/px4_ros2/utils/geometry.cpp.o[0m
+[100%] [32m[1mLinking CXX shared module px4_ros2_py.cpython-312-x86_64-linux-gnu.so[0m
+[100%] Built target px4_ros2_py
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/px4_ros2_py/environment/pythonpath.sh
+-- Symlinking: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/px4_ros2_py/environment/pythonpath.dsv
+-- Symlinking: /home/mikks/ros2_px4_ws/install/px4_ros2_py/lib/python3.12/site-packages/px4_ros2-0.0.1-py3.12.egg-info/PKG-INFO
+-- Symlinking: /home/mikks/ros2_px4_ws/install/px4_ros2_py/lib/python3.12/site-packages/px4_ros2-0.0.1-py3.12.egg-info/SOURCES.txt
+-- Symlinking: /home/mikks/ros2_px4_ws/install/px4_ros2_py/lib/python3.12/site-packages/px4_ros2-0.0.1-py3.12.egg-info/dependency_links.txt
+-- Symlinking: /home/mikks/ros2_px4_ws/install/px4_ros2_py/lib/python3.12/site-packages/px4_ros2-0.0.1-py3.12.egg-info/top_level.txt
+-- Symlinking: /home/mikks/ros2_px4_ws/install/px4_ros2_py/lib/python3.12/site-packages/px4_ros2/__init__.py
+-- Symlinking: /home/mikks/ros2_px4_ws/install/px4_ros2_py/lib/python3.12/site-packages/px4_ros2/px4_ros2_py.cpython-312-x86_64-linux-gnu.so
+-- Symlinking: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/ament_index/resource_index/package_run_dependencies/px4_ros2_py
+-- Symlinking: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/ament_index/resource_index/parent_prefix_path/px4_ros2_py
+-- Symlinking: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/px4_ros2_py/environment/ament_prefix_path.sh
+-- Symlinking: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/px4_ros2_py/environment/ament_prefix_path.dsv
+-- Symlinking: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/px4_ros2_py/environment/path.sh
+-- Symlinking: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/px4_ros2_py/environment/path.dsv
+-- Symlinking: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/px4_ros2_py/local_setup.bash
+-- Symlinking: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/px4_ros2_py/local_setup.sh
+-- Symlinking: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/px4_ros2_py/local_setup.zsh
+-- Symlinking: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/px4_ros2_py/local_setup.dsv
+-- Symlinking: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/px4_ros2_py/package.dsv
+-- Symlinking: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/ament_index/resource_index/packages/px4_ros2_py
+-- Symlinking: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/px4_ros2_py/cmake/px4_ros2_pyConfig.cmake
+-- Symlinking: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/px4_ros2_py/cmake/px4_ros2_pyConfig-version.cmake
+-- Symlinking: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/px4_ros2_py/package.xml
+Listing '/home/mikks/ros2_px4_ws/install/px4_ros2_py/lib/python3.12/site-packages/px4_ros2'...
+Compiling '/home/mikks/ros2_px4_ws/install/px4_ros2_py/lib/python3.12/site-packages/px4_ros2/__init__.py'...

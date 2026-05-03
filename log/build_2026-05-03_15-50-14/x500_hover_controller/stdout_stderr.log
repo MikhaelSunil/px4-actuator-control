@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing x500_hover_controller.egg-info/PKG-INFO
+writing dependency_links to x500_hover_controller.egg-info/dependency_links.txt
+writing entry points to x500_hover_controller.egg-info/entry_points.txt
+writing requirements to x500_hover_controller.egg-info/requires.txt
+writing top-level names to x500_hover_controller.egg-info/top_level.txt
+reading manifest file 'x500_hover_controller.egg-info/SOURCES.txt'
+writing manifest file 'x500_hover_controller.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/mikks/ros2_px4_ws/install/x500_hover_controller/lib/python3.12/site-packages/x500-hover-controller.egg-link (link to .)
+Installing hover_controller script to /home/mikks/ros2_px4_ws/install/x500_hover_controller/lib/x500_hover_controller
+
+Installed /home/mikks/ros2_px4_ws/build/x500_hover_controller
+running symlink_data

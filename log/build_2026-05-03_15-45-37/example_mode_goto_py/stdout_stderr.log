@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing example_mode_goto_py.egg-info/PKG-INFO
+writing dependency_links to example_mode_goto_py.egg-info/dependency_links.txt
+writing entry points to example_mode_goto_py.egg-info/entry_points.txt
+writing requirements to example_mode_goto_py.egg-info/requires.txt
+writing top-level names to example_mode_goto_py.egg-info/top_level.txt
+reading manifest file 'example_mode_goto_py.egg-info/SOURCES.txt'
+writing manifest file 'example_mode_goto_py.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/mikks/ros2_px4_ws/install/example_mode_goto_py/lib/python3.12/site-packages/example-mode-goto-py.egg-link (link to .)
+Installing goto script to /home/mikks/ros2_px4_ws/install/example_mode_goto_py/lib/example_mode_goto_py
+
+Installed /home/mikks/ros2_px4_ws/build/example_mode_goto_py
+running symlink_data

@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating example_mode_with_rclpy_py.egg-info
+writing example_mode_with_rclpy_py.egg-info/PKG-INFO
+writing dependency_links to example_mode_with_rclpy_py.egg-info/dependency_links.txt
+writing entry points to example_mode_with_rclpy_py.egg-info/entry_points.txt
+writing requirements to example_mode_with_rclpy_py.egg-info/requires.txt
+writing top-level names to example_mode_with_rclpy_py.egg-info/top_level.txt
+writing manifest file 'example_mode_with_rclpy_py.egg-info/SOURCES.txt'
+reading manifest file 'example_mode_with_rclpy_py.egg-info/SOURCES.txt'
+writing manifest file 'example_mode_with_rclpy_py.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/mikks/ros2_px4_ws/install/example_mode_with_rclpy_py/lib/python3.12/site-packages/example-mode-with-rclpy-py.egg-link (link to .)
+Installing test script to /home/mikks/ros2_px4_ws/install/example_mode_with_rclpy_py/lib/example_mode_with_rclpy_py
+
+Installed /home/mikks/ros2_px4_ws/build/example_mode_with_rclpy_py
+running symlink_data
+creating /home/mikks/ros2_px4_ws/install/example_mode_with_rclpy_py/share/ament_index
+creating /home/mikks/ros2_px4_ws/install/example_mode_with_rclpy_py/share/ament_index/resource_index
+creating /home/mikks/ros2_px4_ws/install/example_mode_with_rclpy_py/share/ament_index/resource_index/packages
+symbolically linking /home/mikks/ros2_px4_ws/build/example_mode_with_rclpy_py/resource/example_mode_with_rclpy_py -> /home/mikks/ros2_px4_ws/install/example_mode_with_rclpy_py/share/ament_index/resource_index/packages
+symbolically linking /home/mikks/ros2_px4_ws/build/example_mode_with_rclpy_py/package.xml -> /home/mikks/ros2_px4_ws/install/example_mode_with_rclpy_py/share/example_mode_with_rclpy_py

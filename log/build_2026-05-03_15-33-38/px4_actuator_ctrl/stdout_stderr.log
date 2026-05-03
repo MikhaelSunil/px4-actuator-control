@@ -1,0 +1,27 @@
+running develop
+running egg_info
+creating px4_actuator_ctrl.egg-info
+writing px4_actuator_ctrl.egg-info/PKG-INFO
+writing dependency_links to px4_actuator_ctrl.egg-info/dependency_links.txt
+writing entry points to px4_actuator_ctrl.egg-info/entry_points.txt
+writing requirements to px4_actuator_ctrl.egg-info/requires.txt
+writing top-level names to px4_actuator_ctrl.egg-info/top_level.txt
+writing manifest file 'px4_actuator_ctrl.egg-info/SOURCES.txt'
+reading manifest file 'px4_actuator_ctrl.egg-info/SOURCES.txt'
+writing manifest file 'px4_actuator_ctrl.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/mikks/ros2_px4_ws/install/px4_actuator_ctrl/lib/python3.12/site-packages/px4-actuator-ctrl.egg-link (link to .)
+Installing px4_visualizer script to /home/mikks/ros2_px4_ws/install/px4_actuator_ctrl/lib/px4_actuator_ctrl
+Installing quadrotor_controller script to /home/mikks/ros2_px4_ws/install/px4_actuator_ctrl/lib/px4_actuator_ctrl
+
+Installed /home/mikks/ros2_px4_ws/build/px4_actuator_ctrl
+running symlink_data
+creating /home/mikks/ros2_px4_ws/install/px4_actuator_ctrl/share/ament_index
+creating /home/mikks/ros2_px4_ws/install/px4_actuator_ctrl/share/ament_index/resource_index
+creating /home/mikks/ros2_px4_ws/install/px4_actuator_ctrl/share/ament_index/resource_index/packages
+symbolically linking /home/mikks/ros2_px4_ws/build/px4_actuator_ctrl/resource/px4_actuator_ctrl -> /home/mikks/ros2_px4_ws/install/px4_actuator_ctrl/share/ament_index/resource_index/packages
+symbolically linking /home/mikks/ros2_px4_ws/build/px4_actuator_ctrl/package.xml -> /home/mikks/ros2_px4_ws/install/px4_actuator_ctrl/share/px4_actuator_ctrl
+creating /home/mikks/ros2_px4_ws/install/px4_actuator_ctrl/share/px4_actuator_ctrl/launch
+symbolically linking /home/mikks/ros2_px4_ws/build/px4_actuator_ctrl/launch/offboard.launch.py -> /home/mikks/ros2_px4_ws/install/px4_actuator_ctrl/share/px4_actuator_ctrl/launch
+creating /home/mikks/ros2_px4_ws/install/px4_actuator_ctrl/share/px4_actuator_ctrl/rviz
+symbolically linking /home/mikks/ros2_px4_ws/build/px4_actuator_ctrl/rviz/px4.rviz -> /home/mikks/ros2_px4_ws/install/px4_actuator_ctrl/share/px4_actuator_ctrl/rviz

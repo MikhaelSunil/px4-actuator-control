@@ -1,0 +1,2 @@
+[console_scripts]
+goto = example_mode_goto_py.mode:main

@@ -1,0 +1,3 @@
+[console_scripts]
+px4_visualizer = px4_actuator_ctrl.px4_visualizer:main
+quadrotor_controller = px4_actuator_ctrl.quadrotor_controller:main

@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: example-mode-with-rclpy-py
+Version: 0.0.1
+Summary: Example
+Author: beat kueng
+Author-email: beat-kueng@gmx.net
+License: BSD-3-Clause
+Keywords: ROS
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development
+Provides-Extra: test

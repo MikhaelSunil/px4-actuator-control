@@ -1,0 +1,17 @@
+[1.548s] Invoking command in '/home/mikks/ros2_px4_ws/build/example_mode_with_rclpy_py': AMENT_PREFIX_PATH=/home/mikks/ros2_px4_ws/install/px4_ros2_py:/home/mikks/ros2_px4_ws/install/px4_ros2_cpp:/home/mikks/ros2_px4_ws/install/px4_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/mikks/ros2_px4_ws/install/px4_ros2_py:/home/mikks/ros2_px4_ws/install/px4_ros2_cpp:/home/mikks/ros2_px4_ws/install/px4_msgs:${CMAKE_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/mikks/ros2_px4_ws/install/px4_ros2_cpp/lib:/home/mikks/ros2_px4_ws/install/px4_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/mikks/ros2_px4_ws/build/example_mode_with_rclpy_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mikks/ros2_px4_ws/install/example_mode_with_rclpy_py/lib/python3.12/site-packages:/home/mikks/ros2_px4_ws/install/px4_ros2_py/lib/python3.12/site-packages:/home/mikks/ros2_px4_ws/install/px4_msgs/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mikks/ros2_px4_ws/build/example_mode_with_rclpy_py/build --no-deps symlink_data
+[2.152s] running develop
+[2.531s] running egg_info
+[2.571s] writing example_mode_with_rclpy_py.egg-info/PKG-INFO
+[2.571s] writing dependency_links to example_mode_with_rclpy_py.egg-info/dependency_links.txt
+[2.571s] writing entry points to example_mode_with_rclpy_py.egg-info/entry_points.txt
+[2.572s] writing requirements to example_mode_with_rclpy_py.egg-info/requires.txt
+[2.575s] writing top-level names to example_mode_with_rclpy_py.egg-info/top_level.txt
+[2.648s] reading manifest file 'example_mode_with_rclpy_py.egg-info/SOURCES.txt'
+[2.650s] writing manifest file 'example_mode_with_rclpy_py.egg-info/SOURCES.txt'
+[2.692s] running build_ext
+[2.693s] Creating /home/mikks/ros2_px4_ws/install/example_mode_with_rclpy_py/lib/python3.12/site-packages/example-mode-with-rclpy-py.egg-link (link to .)
+[2.693s] Installing test script to /home/mikks/ros2_px4_ws/install/example_mode_with_rclpy_py/lib/example_mode_with_rclpy_py
+[2.693s] 
+[2.694s] Installed /home/mikks/ros2_px4_ws/build/example_mode_with_rclpy_py
+[2.694s] running symlink_data
+[2.793s] Invoked command in '/home/mikks/ros2_px4_ws/build/example_mode_with_rclpy_py' returned '0': AMENT_PREFIX_PATH=/home/mikks/ros2_px4_ws/install/px4_ros2_py:/home/mikks/ros2_px4_ws/install/px4_ros2_cpp:/home/mikks/ros2_px4_ws/install/px4_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/mikks/ros2_px4_ws/install/px4_ros2_py:/home/mikks/ros2_px4_ws/install/px4_ros2_cpp:/home/mikks/ros2_px4_ws/install/px4_msgs:${CMAKE_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/mikks/ros2_px4_ws/install/px4_ros2_cpp/lib:/home/mikks/ros2_px4_ws/install/px4_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/mikks/ros2_px4_ws/build/example_mode_with_rclpy_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mikks/ros2_px4_ws/install/example_mode_with_rclpy_py/lib/python3.12/site-packages:/home/mikks/ros2_px4_ws/install/px4_ros2_py/lib/python3.12/site-packages:/home/mikks/ros2_px4_ws/install/px4_msgs/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mikks/ros2_px4_ws/build/example_mode_with_rclpy_py/build --no-deps symlink_data

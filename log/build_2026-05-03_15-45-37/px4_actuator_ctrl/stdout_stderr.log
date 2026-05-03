@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing px4_actuator_ctrl.egg-info/PKG-INFO
+writing dependency_links to px4_actuator_ctrl.egg-info/dependency_links.txt
+writing entry points to px4_actuator_ctrl.egg-info/entry_points.txt
+writing requirements to px4_actuator_ctrl.egg-info/requires.txt
+writing top-level names to px4_actuator_ctrl.egg-info/top_level.txt
+reading manifest file 'px4_actuator_ctrl.egg-info/SOURCES.txt'
+writing manifest file 'px4_actuator_ctrl.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/mikks/ros2_px4_ws/install/px4_actuator_ctrl/lib/python3.12/site-packages/px4-actuator-ctrl.egg-link (link to .)
+Installing px4_visualizer script to /home/mikks/ros2_px4_ws/install/px4_actuator_ctrl/lib/px4_actuator_ctrl
+Installing quadrotor_controller script to /home/mikks/ros2_px4_ws/install/px4_actuator_ctrl/lib/px4_actuator_ctrl
+
+Installed /home/mikks/ros2_px4_ws/build/px4_actuator_ctrl
+running symlink_data

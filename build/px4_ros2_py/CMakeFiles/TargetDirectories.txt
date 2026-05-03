@@ -1,0 +1,12 @@
+/home/mikks/ros2_px4_ws/build/px4_ros2_py/CMakeFiles/uninstall.dir
+/home/mikks/ros2_px4_ws/build/px4_ros2_py/CMakeFiles/px4_ros2_py_uninstall.dir
+/home/mikks/ros2_px4_ws/build/px4_ros2_py/CMakeFiles/ament_cmake_python_symlink_px4_ros2.dir
+/home/mikks/ros2_px4_ws/build/px4_ros2_py/CMakeFiles/ament_cmake_python_build_px4_ros2_egg.dir
+/home/mikks/ros2_px4_ws/build/px4_ros2_py/CMakeFiles/px4_ros2_py.dir
+/home/mikks/ros2_px4_ws/build/px4_ros2_py/CMakeFiles/test.dir
+/home/mikks/ros2_px4_ws/build/px4_ros2_py/CMakeFiles/edit_cache.dir
+/home/mikks/ros2_px4_ws/build/px4_ros2_py/CMakeFiles/rebuild_cache.dir
+/home/mikks/ros2_px4_ws/build/px4_ros2_py/CMakeFiles/list_install_components.dir
+/home/mikks/ros2_px4_ws/build/px4_ros2_py/CMakeFiles/install.dir
+/home/mikks/ros2_px4_ws/build/px4_ros2_py/CMakeFiles/install/local.dir
+/home/mikks/ros2_px4_ws/build/px4_ros2_py/CMakeFiles/install/strip.dir

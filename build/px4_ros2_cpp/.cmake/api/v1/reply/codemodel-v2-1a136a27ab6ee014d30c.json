@@ -1,0 +1,175 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-22835ef616473c485e05.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				},
+				{
+					"build" : "gtest",
+					"jsonFile" : "directory-gtest-0908a8c91ddba5d6c989.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "/opt/ros/jazzy/src/gtest_vendor",
+					"targetIndexes" : 
+					[
+						1,
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "px4_ros2_cpp",
+					"targetIndexes" : 
+					[
+						0,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "gtest",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_px4_header::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_px4_header-0a06e068e3eddf4582d9.json",
+					"name" : "generate_px4_header",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "gtest::@0af4add9fe94340e763e",
+					"jsonFile" : "target-gtest-398fdc654d7da9114a43.json",
+					"name" : "gtest",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "gtest_main::@0af4add9fe94340e763e",
+					"jsonFile" : "target-gtest_main-d425ecc6ba5fa33fe568.json",
+					"name" : "gtest_main",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "integration_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-integration_tests-b86c21f6b78bf3b8e4d3.json",
+					"name" : "integration_tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "integration_utils::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-integration_utils-335dd8b2e26a7bb24a79.json",
+					"name" : "integration_utils",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "px4_ros2_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-px4_ros2_cpp-f4df54e47b54b3afefca.json",
+					"name" : "px4_ros2_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "px4_ros2_cpp_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-px4_ros2_cpp_uninstall-91021262fcd40dc1c923.json",
+					"name" : "px4_ros2_cpp_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "px4_ros2_cpp_unit_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-px4_ros2_cpp_unit_tests-0b629fb7d56a1fc5fc27.json",
+					"name" : "px4_ros2_cpp_unit_tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-a7697d89cb877899231f.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unit_utils::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unit_utils-8bde28787cae11cc8e1c.json",
+					"name" : "unit_utils",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mikks/ros2_px4_ws/build/px4_ros2_cpp",
+		"source" : "/home/mikks/ros2_px4_ws/src/px4-ros2-interface-lib/px4_ros2_cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

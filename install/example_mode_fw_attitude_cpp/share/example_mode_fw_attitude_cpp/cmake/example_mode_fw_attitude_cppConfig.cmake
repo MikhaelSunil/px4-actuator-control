@@ -1,0 +1,1 @@
+/home/mikks/ros2_px4_ws/build/example_mode_fw_attitude_cpp/ament_cmake_core/example_mode_fw_attitude_cppConfig.cmake

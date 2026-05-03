@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/mikks/ros2_px4_ws/build/example_local_navigation_cpp/example_local_navigation" "TARGETS" "example_local_navigation" "DESTINATION" "lib/example_local_navigation_cpp")

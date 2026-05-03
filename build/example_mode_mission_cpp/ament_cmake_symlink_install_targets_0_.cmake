@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/mikks/ros2_px4_ws/build/example_mode_mission_cpp/example_mode_mission" "TARGETS" "example_mode_mission" "DESTINATION" "lib/example_mode_mission_cpp")

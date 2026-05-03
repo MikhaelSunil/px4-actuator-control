@@ -1,0 +1,1 @@
+/home/mikks/ros2_px4_ws/build/px4_ros2_py/ament_cmake_environment_hooks/local_setup.zsh

@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/mikks/ros2_px4_ws/build/example_rover_velocity_mode_cpp/rover_velocity_mode" "TARGETS" "rover_velocity_mode" "DESTINATION" "lib/example_rover_velocity_mode_cpp")

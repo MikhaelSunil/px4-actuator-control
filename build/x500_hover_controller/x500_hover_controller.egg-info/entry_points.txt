@@ -1,0 +1,2 @@
+[console_scripts]
+hover_controller = x500_hover_controller.hover_controller:main

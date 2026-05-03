@@ -1,0 +1,3 @@
+/home/mikks/ros2_px4_ws/install/px4_ros2_cpp/lib/libpx4_ros2_cpp.so
+/home/mikks/ros2_px4_ws/install/px4_ros2_cpp/share/px4_ros2_cpp/cmake/px4_ros2_cppExport.cmake
+/home/mikks/ros2_px4_ws/install/px4_ros2_cpp/share/px4_ros2_cpp/cmake/px4_ros2_cppExport-noconfig.cmake

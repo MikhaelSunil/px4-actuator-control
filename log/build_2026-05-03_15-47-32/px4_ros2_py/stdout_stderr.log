@@ -1,0 +1,35 @@
+[  0%] Built target ament_cmake_python_symlink_px4_ros2
+[100%] Built target px4_ros2_py
+running egg_info
+writing px4_ros2.egg-info/PKG-INFO
+writing dependency_links to px4_ros2.egg-info/dependency_links.txt
+writing top-level names to px4_ros2.egg-info/top_level.txt
+reading manifest file 'px4_ros2.egg-info/SOURCES.txt'
+writing manifest file 'px4_ros2.egg-info/SOURCES.txt'
+[100%] Built target ament_cmake_python_build_px4_ros2_egg
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/px4_ros2_py/environment/pythonpath.sh
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/px4_ros2_py/environment/pythonpath.dsv
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_py/lib/python3.12/site-packages/px4_ros2-0.0.1-py3.12.egg-info/PKG-INFO
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_py/lib/python3.12/site-packages/px4_ros2-0.0.1-py3.12.egg-info/SOURCES.txt
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_py/lib/python3.12/site-packages/px4_ros2-0.0.1-py3.12.egg-info/dependency_links.txt
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_py/lib/python3.12/site-packages/px4_ros2-0.0.1-py3.12.egg-info/top_level.txt
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_py/lib/python3.12/site-packages/px4_ros2/__init__.py
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_py/lib/python3.12/site-packages/px4_ros2/px4_ros2_py.cpython-312-x86_64-linux-gnu.so
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/ament_index/resource_index/package_run_dependencies/px4_ros2_py
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/ament_index/resource_index/parent_prefix_path/px4_ros2_py
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/px4_ros2_py/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/px4_ros2_py/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/px4_ros2_py/environment/path.sh
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/px4_ros2_py/environment/path.dsv
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/px4_ros2_py/local_setup.bash
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/px4_ros2_py/local_setup.sh
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/px4_ros2_py/local_setup.zsh
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/px4_ros2_py/local_setup.dsv
+-- Symlinking: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/px4_ros2_py/package.dsv
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/ament_index/resource_index/packages/px4_ros2_py
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/px4_ros2_py/cmake/px4_ros2_pyConfig.cmake
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/px4_ros2_py/cmake/px4_ros2_pyConfig-version.cmake
+-- Up-to-date symlink: /home/mikks/ros2_px4_ws/install/px4_ros2_py/share/px4_ros2_py/package.xml
+Listing '/home/mikks/ros2_px4_ws/install/px4_ros2_py/lib/python3.12/site-packages/px4_ros2'...

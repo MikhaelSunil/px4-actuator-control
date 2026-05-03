@@ -1,0 +1,18 @@
+[2.310s] Invoking command in '/home/mikks/ros2_px4_ws/build/px4_actuator_ctrl': AMENT_PREFIX_PATH=/home/mikks/ros2_px4_ws/install/px4_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/mikks/ros2_px4_ws/install/px4_msgs:${CMAKE_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/mikks/ros2_px4_ws/install/px4_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/mikks/ros2_px4_ws/build/px4_actuator_ctrl/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mikks/ros2_px4_ws/install/px4_actuator_ctrl/lib/python3.12/site-packages:/home/mikks/ros2_px4_ws/install/px4_msgs/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mikks/ros2_px4_ws/build/px4_actuator_ctrl/build --no-deps symlink_data
+[2.822s] running develop
+[3.161s] running egg_info
+[3.195s] writing px4_actuator_ctrl.egg-info/PKG-INFO
+[3.196s] writing dependency_links to px4_actuator_ctrl.egg-info/dependency_links.txt
+[3.197s] writing entry points to px4_actuator_ctrl.egg-info/entry_points.txt
+[3.197s] writing requirements to px4_actuator_ctrl.egg-info/requires.txt
+[3.197s] writing top-level names to px4_actuator_ctrl.egg-info/top_level.txt
+[3.269s] reading manifest file 'px4_actuator_ctrl.egg-info/SOURCES.txt'
+[3.270s] writing manifest file 'px4_actuator_ctrl.egg-info/SOURCES.txt'
+[3.315s] running build_ext
+[3.316s] Creating /home/mikks/ros2_px4_ws/install/px4_actuator_ctrl/lib/python3.12/site-packages/px4-actuator-ctrl.egg-link (link to .)
+[3.316s] Installing px4_visualizer script to /home/mikks/ros2_px4_ws/install/px4_actuator_ctrl/lib/px4_actuator_ctrl
+[3.316s] Installing quadrotor_controller script to /home/mikks/ros2_px4_ws/install/px4_actuator_ctrl/lib/px4_actuator_ctrl
+[3.317s] 
+[3.317s] Installed /home/mikks/ros2_px4_ws/build/px4_actuator_ctrl
+[3.317s] running symlink_data
+[3.418s] Invoked command in '/home/mikks/ros2_px4_ws/build/px4_actuator_ctrl' returned '0': AMENT_PREFIX_PATH=/home/mikks/ros2_px4_ws/install/px4_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/mikks/ros2_px4_ws/install/px4_msgs:${CMAKE_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/mikks/ros2_px4_ws/install/px4_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/mikks/ros2_px4_ws/build/px4_actuator_ctrl/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mikks/ros2_px4_ws/install/px4_actuator_ctrl/lib/python3.12/site-packages:/home/mikks/ros2_px4_ws/install/px4_msgs/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mikks/ros2_px4_ws/build/px4_actuator_ctrl/build --no-deps symlink_data

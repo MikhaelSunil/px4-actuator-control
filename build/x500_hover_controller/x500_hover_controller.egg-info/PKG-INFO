@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: x500-hover-controller
+Version: 0.1.0
+Summary: Actuator-level cascaded controller for X500 hover in PX4 SITL
+Maintainer: Your Name
+Maintainer-email: you@example.com
+License: BSD-3-Clause

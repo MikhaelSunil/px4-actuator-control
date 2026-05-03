@@ -1,0 +1,1 @@
+/home/mikks/ros2_px4_ws/build/example_mode_goto_global_cpp/ament_cmake_environment_hooks/local_setup.sh

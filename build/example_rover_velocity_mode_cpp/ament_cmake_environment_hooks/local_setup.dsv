@@ -1,0 +1,2 @@
+source;share/example_rover_velocity_mode_cpp/environment/ament_prefix_path.sh
+source;share/example_rover_velocity_mode_cpp/environment/path.sh
