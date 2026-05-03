@@ -1,1 +1,0 @@
-/home/mikks/ros2_px4_ws/src/px4-ros2-interface-lib/examples/python/modes/goto_with_rclpy/setup.py

@@ -1,1 +1,0 @@
-/home/mikks/ros2_px4_ws/src/px4_actuator_ctrl/setup.py

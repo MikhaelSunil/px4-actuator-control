@@ -1,0 +1,10 @@
+build/
+install/
+log/
+*.pyc
+__pycache__/
+*.pt
+*.png
+.env
+venv/
+cf-venv/
