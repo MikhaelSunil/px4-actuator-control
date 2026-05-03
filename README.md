@@ -71,6 +71,9 @@ ros2 launch px4_actuator_ctrl offboard.launch.py
 ```
 
 ### Results
+<img width="1893" height="491" alt="Screenshot from 2026-05-03 17-11-49" src="https://github.com/user-attachments/assets/e92e966c-4d2a-4acc-b8cd-a6849db0ab1c" />
+
+<img width="1213" height="836" alt="Screenshot from 2026-05-03 15-53-08" src="https://github.com/user-attachments/assets/47a9d6d3-14b5-435a-bd35-62cb11522461" />
 
 - Takeoff reached 3 m smoothly with no oscillations
 - Hover held within ~0.3 m of the takeoff point
@@ -149,7 +152,7 @@ At ~2,500 steps:
 
 The agent is not yet converged. Longer training is needed for the RL policy to stabilize independently of the PD baseline.
 
-![Training curves](training_plot.png)
+![Training curves](<img width="1904" height="887" alt="Screenshot from 2026-05-03 21-03-52" src="https://github.com/user-attachments/assets/46d8be63-1aed-4885-82b9-335a67d2a081" />
 *Figure: Reward (top), Position Error (middle), PD vs RL Control Influence (bottom)*
 
 ### Sim-to-Sim Transfer
