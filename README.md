@@ -196,9 +196,11 @@ The node arms the drone automatically after 20 odometry callbacks and plots rewa
 px4-actuator-control/
 ├── px4_actuator_ctrl/
 │   ├── actuator_ctrl_node.py   # Task A: cascaded motor-level controller
-│   └── rl_hover_node.py        # Task B: Actor-Critic hover policy
+│   └── px4_visualizer.py       
 ├── launch/
 │   └── offboard.launch.py
+├── rl_hover_pkg/
+│   ├── rl_hover_node.py  # Task B: Actor-Critic hover policy
 ├── training_plot.png
 └── README.md
 ```
