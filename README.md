@@ -152,7 +152,8 @@ At ~2,500 steps:
 
 The agent is not yet converged. Longer training is needed for the RL policy to stabilize independently of the PD baseline.
 
-![Training curves](<img width="1904" height="887" alt="Screenshot from 2026-05-03 21-03-52" src="https://github.com/user-attachments/assets/46d8be63-1aed-4885-82b9-335a67d2a081" />
+![Training curves](<img width="1898" height="503" alt="Screenshot from 2026-05-03 22-33-28" src="https://github.com/user-attachments/assets/3515354f-ddde-4412-a9dc-835ecba67055" />
+
 *Figure: Reward (top), Position Error (middle), PD vs RL Control Influence (bottom)*
 
 ### Sim-to-Sim Transfer
