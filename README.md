@@ -1,4 +1,4 @@
-# PX4 Quadrotor Control — Actuator-Level COntrol & RL  Hover Training
+# PX4 Quadrotor Control — Low-Level Control & RL  Hover Training
 
 **Author:** Mikhael Sunil  
 **Platform:** PX4 X500 Quadrotor · Gazebo Harmonic · ROS 2 Jazzy  
