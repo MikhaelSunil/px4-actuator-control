@@ -26,7 +26,7 @@ A cascaded controller publishes motor throttle commands directly to `/fmu/in/act
 1. **Takeoff** — climb to 3 m with proportional vertical velocity control
 2. **Hover** — hold position with XY damping
 3. **Forward motion** — translate 3 m in the heading direction via tilt-based velocity control
-4. **Landing** — constant descent at −0.15 m/s with body-frame XY damping, auto-disarm on touchdown
+4. **Landing** — constant descent with , auto-disarm on touchdown
 
 ### Control Architecture
 
